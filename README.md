@@ -5,5 +5,5 @@
 
 ### for running this project you have to on the android studio ### emulator and then type the following command in the       terminal
     
-    * npm start
+     npm start
  
